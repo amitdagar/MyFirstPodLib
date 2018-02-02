@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstPodLib",
+  "version": "0.1.0",
+  "summary": "A short description of MyFirstPodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amit.rawat/MyFirstPodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amit.rawat": "amit.rawat@int.absas.net"
+  },
+  "source": {
+    "git": "https://github.com/amit.rawat/MyFirstPodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyFirstPodLib/Classes/**/*"
+}
